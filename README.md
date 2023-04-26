@@ -6,7 +6,7 @@ Este projeto é um player de músicas baseado no Spotify.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
